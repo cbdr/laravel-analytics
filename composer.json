@@ -1,6 +1,6 @@
 {
-  "name": "spatie/laravel-analytics",
-  "description": "A Laravel 5 package to retrieve Google Analytics data.",
+  "name": "ekopranototjoa/laravel-analytics",
+  "description": "For php 5.6 - Fork from spatie/laravel-analytics - A Laravel 5 package to retrieve Google Analytics data.",
   "keywords": [
     "spatie",
     "google",
@@ -20,7 +20,7 @@
     }
   ],
   "require": {
-    "php" : "^7.0",
+    "php" : ">=5.6.4",
     "illuminate/contracts": "~5.1.0|~5.2.0|~5.3.0",
     "illuminate/support": "~5.1.0|~5.2.0|~5.3.0",
     "google/apiclient" : "^1.1",
